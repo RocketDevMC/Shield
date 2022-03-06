@@ -1,0 +1,8 @@
+antivpn:
+  enabled: true
+  key: ""
+  block: false
+  level: "Low" #Low or high
+captcha:
+  enabled: true
+  always: false
